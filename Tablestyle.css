@@ -1,0 +1,36 @@
+/*h2{
+    font-size:250%;
+    text-align: center;
+    color: #e5e4d7;
+    font-family: "Gill sans";
+    margin: 0px;
+    position: relative;
+    top: 50%;
+    -webkit-transform:translateY(-50%);
+    -ms-transform:translateY(-50%);
+    transform: translateY(-50%);
+}
+
+
+
+#header1{
+    background-color: #5c755e;
+    margin: 10px;
+    height: 100px;
+    border-radius:5px;
+}
+
+#tableform{
+    margin: 10px;
+
+    height: 5000px;
+
+}*/
+
+table,th,td{
+    padding-left: 50px;
+    padding-right: 25px;
+    height: 10px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
